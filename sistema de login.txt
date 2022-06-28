@@ -1,6 +1,8 @@
 -b i e n venido-
 Digite seu login
-[______________]
+[_______________]
 Digite sua senha
-[______________]
-----[ENTRAR]----
+[_______________]
+É maior de idade?
+[ X ]Sim [   ]Não
+---------[ENTRAR]
